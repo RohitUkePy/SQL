@@ -1,0 +1,1001 @@
+TransactionID,AccountID,TransactionDate,TransactionType,Amount,Description
+1,108,2023-04-23,Debit,57.13,Online Purchase
+2,119,2023-03-16,Credit,995.3,Cash Deposit
+3,24,2023-05-13,Credit,632.92,ATM Withdrawal
+4,22,2023-11-20,Debit,277.43,Salary Credit
+5,74,2023-01-19,Credit,212.83,ATM Withdrawal
+6,48,2023-12-23,Credit,495.6,Direct Deposit
+7,154,2023-12-11,Credit,618.25,Transfer
+8,46,2023-06-15,Debit,816.26,Bill Payment
+9,34,2023-04-28,Debit,524.81,ATM Withdrawal
+10,71,2023-06-22,Credit,162.72,Refund
+11,71,2023-01-12,Credit,180.03,Bill Payment
+12,186,2023-10-03,Debit,223.77,Bill Payment
+13,75,2023-10-02,Debit,76.76,Salary Credit
+14,77,2023-03-13,Credit,437.33,Transfer
+15,29,2023-12-23,Debit,928.27,ATM Withdrawal
+16,48,2023-09-12,Debit,438.32,Online Purchase
+17,140,2023-01-10,Debit,632.62,Transfer
+18,7,2023-05-09,Credit,386.09,Salary Credit
+19,9,2023-12-11,Credit,890.79,Transfer
+20,79,2023-01-22,Credit,991.85,Online Purchase
+21,82,2023-02-26,Debit,14.93,Direct Deposit
+22,10,2023-08-21,Debit,329.84,Transfer
+23,135,2023-10-05,Credit,592.64,Cash Deposit
+24,98,2023-10-05,Debit,94.19,Refund
+25,97,2023-08-05,Debit,840.71,ATM Withdrawal
+26,92,2023-01-02,Debit,455.64,Refund
+27,178,2023-01-07,Debit,805.89,Bill Payment
+28,22,2023-10-07,Credit,245.35,Transfer
+29,109,2023-10-19,Debit,394.91,Bill Payment
+30,186,2023-11-07,Debit,713.8,Transfer
+31,104,2023-04-22,Debit,443.14,Refund
+32,180,2023-05-27,Credit,390.83,Refund
+33,144,2023-05-13,Debit,230.13,Online Purchase
+34,171,2023-06-26,Debit,557.19,Online Purchase
+35,37,2023-01-11,Debit,993.5,ATM Withdrawal
+36,159,2023-03-17,Credit,810.45,ATM Withdrawal
+37,157,2023-02-23,Credit,780.21,Direct Deposit
+38,150,2023-08-13,Credit,827.67,Cash Deposit
+39,49,2023-07-24,Credit,895.58,Direct Deposit
+40,159,2023-04-20,Credit,391.87,Cash Deposit
+41,77,2023-11-08,Credit,730.13,Refund
+42,200,2023-02-26,Debit,692.5,Refund
+43,188,2023-08-20,Credit,578.52,Salary Credit
+44,163,2023-02-24,Debit,198.29,Salary Credit
+45,68,2023-04-21,Credit,684.52,Transfer
+46,30,2023-01-08,Debit,119.99,Bill Payment
+47,188,2023-09-09,Credit,647.79,Direct Deposit
+48,66,2023-02-13,Debit,689.42,ATM Withdrawal
+49,29,2023-02-18,Debit,734.32,Refund
+50,6,2023-05-25,Credit,892.37,Bill Payment
+51,6,2023-10-19,Credit,227.79,Online Purchase
+52,117,2023-01-16,Credit,351.08,Direct Deposit
+53,93,2023-08-28,Credit,513.73,Refund
+54,131,2023-09-04,Credit,585.18,Cash Deposit
+55,127,2023-06-14,Credit,563.29,Bill Payment
+56,39,2023-10-19,Debit,995.12,Bill Payment
+57,104,2023-10-14,Debit,231.84,Online Purchase
+58,162,2023-12-20,Credit,282.91,Salary Credit
+59,113,2023-04-06,Debit,246.6,Salary Credit
+60,185,2023-08-06,Credit,615.34,Direct Deposit
+61,134,2023-12-18,Debit,426.55,Transfer
+62,45,2023-01-17,Credit,263.76,Online Purchase
+63,74,2023-05-03,Debit,119.54,Online Purchase
+64,36,2023-07-07,Debit,11.56,Direct Deposit
+65,129,2023-03-10,Credit,676.3,Salary Credit
+66,124,2023-04-12,Credit,575.83,Online Purchase
+67,21,2023-04-08,Debit,834.82,Transfer
+68,78,2023-05-14,Credit,309.98,Cash Deposit
+69,81,2023-07-08,Debit,257.59,Transfer
+70,196,2023-03-11,Debit,920.54,Bill Payment
+71,147,2023-07-24,Debit,448.28,Direct Deposit
+72,140,2023-03-26,Debit,470.46,Direct Deposit
+73,101,2023-04-16,Credit,39.5,Cash Deposit
+74,159,2023-12-28,Debit,589.84,Direct Deposit
+75,54,2023-07-22,Credit,231.48,Direct Deposit
+76,131,2023-08-13,Debit,336.8,Salary Credit
+77,88,2023-07-08,Debit,239.24,Salary Credit
+78,137,2023-01-03,Debit,811.31,Refund
+79,97,2023-10-26,Credit,14.56,Cash Deposit
+80,11,2023-07-25,Credit,351.15,Direct Deposit
+81,58,2023-11-26,Debit,710.62,Cash Deposit
+82,8,2023-12-12,Credit,710.58,Cash Deposit
+83,8,2023-12-15,Credit,706.76,ATM Withdrawal
+84,86,2023-10-01,Credit,40.36,Transfer
+85,128,2023-10-12,Debit,403.61,Direct Deposit
+86,73,2023-07-08,Debit,561.54,ATM Withdrawal
+87,140,2023-05-03,Credit,302.25,Refund
+88,179,2023-08-23,Debit,338.13,Salary Credit
+89,108,2023-06-08,Debit,430.94,Salary Credit
+90,80,2023-01-01,Credit,248.13,Refund
+91,150,2023-02-21,Credit,867.94,Online Purchase
+92,102,2023-09-03,Debit,744.74,Direct Deposit
+93,183,2023-11-06,Credit,839.04,Cash Deposit
+94,176,2023-12-11,Credit,32.0,Refund
+95,92,2023-03-26,Credit,974.47,Salary Credit
+96,73,2023-08-25,Debit,259.93,Direct Deposit
+97,46,2023-06-14,Debit,245.77,Cash Deposit
+98,57,2023-07-28,Debit,242.96,Cash Deposit
+99,144,2023-11-07,Debit,738.27,Salary Credit
+100,84,2023-09-12,Debit,550.27,Cash Deposit
+101,34,2023-08-19,Debit,891.63,Cash Deposit
+102,180,2023-01-25,Credit,129.19,Salary Credit
+103,151,2023-01-06,Credit,220.2,Online Purchase
+104,37,2023-06-19,Credit,354.69,Cash Deposit
+105,163,2023-05-21,Debit,394.74,Refund
+106,51,2023-11-21,Credit,35.87,Salary Credit
+107,45,2023-02-01,Debit,656.01,ATM Withdrawal
+108,181,2023-02-22,Debit,799.14,ATM Withdrawal
+109,43,2023-07-14,Credit,446.16,Bill Payment
+110,108,2023-02-20,Credit,245.07,Direct Deposit
+111,77,2023-05-18,Debit,871.33,Transfer
+112,116,2023-11-28,Credit,630.8,Cash Deposit
+113,145,2023-02-16,Debit,478.48,Online Purchase
+114,177,2023-01-28,Credit,460.64,ATM Withdrawal
+115,4,2023-08-23,Credit,40.63,Refund
+116,149,2023-06-26,Credit,138.83,Salary Credit
+117,48,2023-10-23,Credit,444.3,Refund
+118,187,2023-11-25,Credit,287.22,ATM Withdrawal
+119,5,2023-02-25,Debit,760.0,Online Purchase
+120,138,2023-11-19,Credit,972.51,Transfer
+121,80,2023-08-05,Debit,308.03,Online Purchase
+122,137,2023-04-01,Debit,523.62,ATM Withdrawal
+123,17,2023-08-01,Credit,932.37,Salary Credit
+124,172,2023-02-16,Debit,583.73,Online Purchase
+125,178,2023-02-01,Debit,970.44,Cash Deposit
+126,138,2023-10-15,Credit,469.47,Bill Payment
+127,190,2023-06-03,Debit,750.13,Salary Credit
+128,108,2023-11-06,Credit,616.98,Salary Credit
+129,139,2023-05-04,Debit,915.19,Cash Deposit
+130,75,2023-03-02,Debit,701.37,Refund
+131,188,2023-01-13,Debit,805.38,Transfer
+132,153,2023-09-04,Credit,70.03,Salary Credit
+133,123,2023-08-24,Debit,495.85,Online Purchase
+134,45,2023-07-03,Debit,281.18,Direct Deposit
+135,23,2023-01-27,Credit,394.77,Cash Deposit
+136,29,2023-01-21,Debit,718.8,Salary Credit
+137,49,2023-10-28,Debit,837.53,ATM Withdrawal
+138,183,2023-10-26,Debit,836.82,Transfer
+139,151,2023-02-22,Debit,269.92,Bill Payment
+140,78,2023-06-26,Debit,431.45,Salary Credit
+141,144,2023-02-19,Debit,110.76,ATM Withdrawal
+142,35,2023-06-09,Credit,891.93,Salary Credit
+143,167,2023-09-16,Debit,74.63,ATM Withdrawal
+144,141,2023-06-15,Debit,678.58,ATM Withdrawal
+145,172,2023-03-01,Debit,652.13,Transfer
+146,152,2023-05-27,Credit,961.49,Direct Deposit
+147,163,2023-04-27,Debit,97.2,ATM Withdrawal
+148,128,2023-07-10,Debit,401.78,Cash Deposit
+149,71,2023-08-14,Credit,586.09,Transfer
+150,10,2023-04-06,Credit,463.35,Salary Credit
+151,119,2023-06-22,Credit,916.49,Refund
+152,192,2023-10-01,Credit,340.38,Salary Credit
+153,69,2023-01-08,Credit,338.93,Direct Deposit
+154,188,2023-07-01,Credit,312.59,Transfer
+155,54,2023-05-25,Debit,97.99,Direct Deposit
+156,33,2023-01-12,Debit,918.31,Direct Deposit
+157,64,2023-05-18,Debit,47.85,ATM Withdrawal
+158,108,2023-01-22,Debit,508.53,Salary Credit
+159,104,2023-11-24,Credit,342.77,Transfer
+160,25,2023-05-04,Debit,438.8,Direct Deposit
+161,141,2023-10-21,Debit,459.82,Online Purchase
+162,92,2023-09-13,Debit,590.48,Bill Payment
+163,161,2023-04-21,Debit,690.47,ATM Withdrawal
+164,159,2023-12-06,Debit,332.71,Bill Payment
+165,99,2023-02-08,Debit,466.34,Online Purchase
+166,115,2023-12-27,Credit,291.9,Direct Deposit
+167,129,2023-07-04,Debit,195.94,Refund
+168,145,2023-01-26,Debit,948.74,Bill Payment
+169,54,2023-09-02,Credit,178.98,Online Purchase
+170,192,2023-07-26,Debit,841.04,ATM Withdrawal
+171,36,2023-10-16,Debit,462.06,Online Purchase
+172,74,2023-02-01,Debit,720.25,Cash Deposit
+173,156,2023-11-14,Credit,428.66,ATM Withdrawal
+174,103,2023-10-07,Credit,644.76,Direct Deposit
+175,183,2023-10-13,Credit,781.18,ATM Withdrawal
+176,103,2023-09-06,Credit,152.8,Transfer
+177,81,2023-08-18,Debit,165.31,Online Purchase
+178,92,2023-01-14,Credit,333.32,ATM Withdrawal
+179,161,2023-04-15,Credit,969.96,Cash Deposit
+180,26,2023-02-24,Debit,441.71,ATM Withdrawal
+181,76,2023-08-13,Credit,804.42,Online Purchase
+182,158,2023-10-13,Credit,891.59,Cash Deposit
+183,61,2023-02-09,Credit,691.21,Transfer
+184,117,2023-09-12,Debit,558.18,Online Purchase
+185,63,2023-04-13,Credit,377.97,Salary Credit
+186,58,2023-06-24,Credit,968.62,Bill Payment
+187,73,2023-07-03,Debit,659.08,Refund
+188,21,2023-07-17,Debit,559.87,Cash Deposit
+189,23,2023-12-09,Credit,462.41,Bill Payment
+190,24,2023-08-28,Debit,163.83,Salary Credit
+191,57,2023-10-19,Credit,394.1,Online Purchase
+192,66,2023-03-15,Debit,735.55,Transfer
+193,32,2023-07-27,Debit,965.14,Online Purchase
+194,30,2023-02-16,Debit,750.29,Salary Credit
+195,44,2023-10-13,Debit,750.11,Online Purchase
+196,165,2023-12-10,Credit,391.2,Direct Deposit
+197,69,2023-05-11,Credit,279.95,Cash Deposit
+198,81,2023-08-28,Credit,298.13,Online Purchase
+199,187,2023-02-01,Credit,613.75,Bill Payment
+200,11,2023-07-08,Credit,885.01,Direct Deposit
+201,19,2023-08-05,Credit,487.49,Cash Deposit
+202,10,2023-08-01,Credit,11.11,Online Purchase
+203,150,2023-07-03,Debit,790.27,Online Purchase
+204,151,2023-12-20,Credit,539.55,Transfer
+205,167,2023-04-12,Credit,134.36,Salary Credit
+206,103,2023-12-20,Debit,932.78,Salary Credit
+207,88,2023-07-13,Credit,723.99,Transfer
+208,85,2023-04-02,Debit,518.63,Cash Deposit
+209,20,2023-10-11,Credit,607.24,Online Purchase
+210,87,2023-05-01,Debit,847.94,Refund
+211,74,2023-01-23,Debit,466.32,Salary Credit
+212,86,2023-01-28,Debit,697.76,Cash Deposit
+213,193,2023-09-01,Credit,496.72,Refund
+214,67,2023-04-20,Credit,329.27,Bill Payment
+215,2,2023-09-22,Credit,956.69,Online Purchase
+216,80,2023-01-01,Debit,918.78,Salary Credit
+217,142,2023-07-10,Debit,781.68,Bill Payment
+218,25,2023-12-12,Debit,912.44,Cash Deposit
+219,7,2023-09-09,Debit,186.6,Bill Payment
+220,27,2023-02-13,Debit,358.88,Bill Payment
+221,183,2023-01-12,Debit,323.63,Bill Payment
+222,50,2023-07-07,Credit,338.93,Cash Deposit
+223,184,2023-11-20,Debit,915.5,Bill Payment
+224,130,2023-09-06,Credit,398.93,ATM Withdrawal
+225,41,2023-10-21,Debit,296.52,Cash Deposit
+226,109,2023-04-20,Debit,249.94,Cash Deposit
+227,158,2023-06-27,Credit,321.72,ATM Withdrawal
+228,100,2023-09-21,Credit,837.86,Online Purchase
+229,104,2023-03-26,Credit,169.41,ATM Withdrawal
+230,141,2023-08-04,Debit,908.4,Salary Credit
+231,181,2023-05-19,Credit,115.64,Cash Deposit
+232,110,2023-12-13,Credit,132.7,ATM Withdrawal
+233,100,2023-09-03,Credit,659.44,Cash Deposit
+234,148,2023-01-28,Debit,272.75,Transfer
+235,155,2023-05-20,Debit,855.04,Refund
+236,8,2023-06-03,Debit,143.89,Direct Deposit
+237,156,2023-03-03,Credit,634.29,Bill Payment
+238,83,2023-09-05,Debit,206.88,Salary Credit
+239,176,2023-09-11,Credit,198.85,Cash Deposit
+240,141,2023-07-17,Credit,538.93,Online Purchase
+241,11,2023-01-11,Credit,243.81,Salary Credit
+242,17,2023-09-05,Credit,189.89,Refund
+243,48,2023-03-09,Debit,562.52,Direct Deposit
+244,171,2023-11-26,Debit,731.25,ATM Withdrawal
+245,160,2023-11-03,Credit,836.34,ATM Withdrawal
+246,19,2023-09-23,Credit,780.37,Salary Credit
+247,56,2023-10-17,Credit,397.37,ATM Withdrawal
+248,55,2023-10-17,Credit,331.61,Salary Credit
+249,163,2023-06-27,Credit,258.48,Transfer
+250,52,2023-08-20,Credit,305.16,Bill Payment
+251,29,2023-10-26,Debit,662.92,Refund
+252,15,2023-03-17,Debit,942.39,Cash Deposit
+253,81,2023-06-16,Credit,392.0,Online Purchase
+254,57,2023-10-01,Debit,53.15,Online Purchase
+255,54,2023-12-02,Debit,119.69,Cash Deposit
+256,85,2023-07-02,Credit,958.73,Salary Credit
+257,184,2023-01-04,Debit,420.32,Transfer
+258,170,2023-12-21,Credit,935.01,Transfer
+259,153,2023-06-07,Debit,286.1,ATM Withdrawal
+260,173,2023-06-16,Credit,443.27,Refund
+261,10,2023-09-11,Credit,604.31,Transfer
+262,10,2023-11-23,Debit,982.91,Refund
+263,143,2023-12-11,Credit,296.69,Transfer
+264,146,2023-11-15,Credit,291.1,Bill Payment
+265,150,2023-09-05,Credit,193.97,ATM Withdrawal
+266,119,2023-01-02,Debit,395.03,Salary Credit
+267,14,2023-02-24,Credit,719.31,Direct Deposit
+268,64,2023-06-08,Debit,486.19,ATM Withdrawal
+269,190,2023-01-19,Debit,427.7,Direct Deposit
+270,14,2023-11-26,Credit,340.37,Direct Deposit
+271,148,2023-03-25,Debit,53.4,Direct Deposit
+272,3,2023-11-25,Credit,663.8,Refund
+273,85,2023-04-24,Debit,642.07,Transfer
+274,5,2023-06-08,Debit,173.75,Direct Deposit
+275,177,2023-03-15,Debit,521.28,Bill Payment
+276,32,2023-12-10,Credit,157.57,Cash Deposit
+277,117,2023-10-25,Credit,890.11,Transfer
+278,55,2023-12-06,Debit,105.57,Transfer
+279,98,2023-05-16,Credit,361.09,Salary Credit
+280,72,2023-03-15,Debit,699.58,Refund
+281,53,2023-02-16,Credit,958.62,Online Purchase
+282,35,2023-05-18,Debit,192.14,Salary Credit
+283,138,2023-04-07,Debit,423.12,Refund
+284,130,2023-09-18,Debit,380.39,Refund
+285,24,2023-12-16,Credit,794.25,Refund
+286,200,2023-01-17,Debit,392.46,Bill Payment
+287,189,2023-08-04,Debit,570.85,Salary Credit
+288,142,2023-03-11,Debit,506.17,Bill Payment
+289,166,2023-11-23,Debit,780.02,Transfer
+290,80,2023-11-27,Credit,867.14,Salary Credit
+291,93,2023-07-05,Credit,865.31,Cash Deposit
+292,58,2023-02-23,Debit,682.47,Transfer
+293,131,2023-06-09,Debit,677.7,Online Purchase
+294,155,2023-09-04,Debit,344.19,ATM Withdrawal
+295,6,2023-08-19,Credit,128.27,ATM Withdrawal
+296,94,2023-11-16,Credit,249.28,Salary Credit
+297,95,2023-10-12,Debit,806.32,Cash Deposit
+298,148,2023-10-11,Debit,12.32,Online Purchase
+299,14,2023-04-04,Debit,698.69,Refund
+300,46,2023-07-07,Credit,676.03,Salary Credit
+301,194,2023-12-13,Debit,620.95,Bill Payment
+302,18,2023-04-15,Debit,803.76,Salary Credit
+303,144,2023-06-10,Debit,534.94,Salary Credit
+304,83,2023-08-10,Credit,341.01,Online Purchase
+305,18,2023-04-17,Debit,500.84,Salary Credit
+306,171,2023-08-03,Debit,994.77,Online Purchase
+307,161,2023-11-21,Debit,229.77,Direct Deposit
+308,161,2023-12-28,Credit,198.58,Direct Deposit
+309,92,2023-07-05,Debit,811.46,Salary Credit
+310,99,2023-09-13,Debit,566.01,ATM Withdrawal
+311,8,2023-12-15,Debit,888.65,Transfer
+312,8,2023-12-18,Credit,717.18,Refund
+313,22,2023-05-09,Debit,616.06,Cash Deposit
+314,30,2023-01-28,Debit,502.72,Refund
+315,49,2023-07-19,Credit,316.92,Cash Deposit
+316,160,2023-10-21,Debit,748.4,Bill Payment
+317,159,2023-09-05,Credit,444.56,Transfer
+318,22,2023-08-25,Credit,667.2,Direct Deposit
+319,115,2023-10-24,Credit,269.11,Cash Deposit
+320,14,2023-11-04,Credit,976.87,ATM Withdrawal
+321,119,2023-01-03,Debit,195.32,ATM Withdrawal
+322,27,2023-04-27,Debit,335.11,Online Purchase
+323,43,2023-11-19,Debit,91.46,Online Purchase
+324,52,2023-12-17,Debit,284.7,Online Purchase
+325,29,2023-07-03,Debit,660.55,ATM Withdrawal
+326,158,2023-10-08,Credit,931.89,Direct Deposit
+327,17,2023-06-08,Credit,819.57,Cash Deposit
+328,85,2023-03-10,Credit,56.46,Salary Credit
+329,85,2023-03-15,Credit,379.67,Refund
+330,162,2023-06-03,Debit,597.13,ATM Withdrawal
+331,178,2023-09-04,Debit,177.69,ATM Withdrawal
+332,146,2023-11-16,Credit,972.21,ATM Withdrawal
+333,51,2023-02-16,Debit,428.42,Refund
+334,65,2023-06-05,Debit,864.51,Direct Deposit
+335,58,2023-09-23,Debit,828.4,Salary Credit
+336,21,2023-10-19,Debit,209.34,Direct Deposit
+337,60,2023-11-09,Debit,354.69,ATM Withdrawal
+338,132,2023-02-04,Credit,536.31,Cash Deposit
+339,88,2023-01-04,Debit,797.4,Direct Deposit
+340,195,2023-01-13,Debit,82.87,Bill Payment
+341,131,2023-10-27,Debit,730.09,Cash Deposit
+342,193,2023-12-02,Debit,993.65,Salary Credit
+343,145,2023-07-25,Debit,665.94,Salary Credit
+344,176,2023-01-09,Debit,196.65,Transfer
+345,116,2023-09-02,Debit,77.74,Salary Credit
+346,188,2023-11-28,Debit,264.58,Bill Payment
+347,42,2023-03-02,Credit,847.12,Refund
+348,7,2023-06-22,Debit,91.01,Transfer
+349,46,2023-11-02,Credit,999.61,ATM Withdrawal
+350,69,2023-05-13,Credit,368.65,Refund
+351,100,2023-12-04,Debit,530.15,Bill Payment
+352,100,2023-05-16,Debit,501.57,Online Purchase
+353,105,2023-06-13,Credit,776.74,Cash Deposit
+354,85,2023-06-26,Debit,810.04,Bill Payment
+355,156,2023-05-22,Debit,310.63,Refund
+356,30,2023-08-02,Debit,317.26,Refund
+357,109,2023-12-27,Debit,634.48,Refund
+358,147,2023-08-18,Debit,785.21,Salary Credit
+359,67,2023-03-18,Credit,368.12,ATM Withdrawal
+360,99,2023-04-20,Debit,196.66,Direct Deposit
+361,122,2023-08-26,Credit,957.57,Cash Deposit
+362,137,2023-10-19,Debit,23.44,ATM Withdrawal
+363,118,2023-06-07,Credit,873.38,Refund
+364,143,2023-01-15,Debit,269.43,Direct Deposit
+365,160,2023-05-26,Credit,869.01,ATM Withdrawal
+366,33,2023-05-05,Debit,229.01,Salary Credit
+367,163,2023-08-07,Debit,303.83,Transfer
+368,36,2023-06-13,Credit,261.52,ATM Withdrawal
+369,147,2023-03-03,Debit,119.95,Direct Deposit
+370,26,2023-05-12,Credit,542.03,ATM Withdrawal
+371,167,2023-11-26,Credit,366.78,Direct Deposit
+372,103,2023-07-20,Debit,911.58,Direct Deposit
+373,88,2023-09-15,Debit,875.43,Direct Deposit
+374,51,2023-06-20,Credit,646.66,Cash Deposit
+375,141,2023-11-28,Credit,591.64,Direct Deposit
+376,166,2023-06-05,Credit,675.49,Direct Deposit
+377,192,2023-07-16,Credit,331.61,ATM Withdrawal
+378,80,2023-09-25,Debit,43.13,Salary Credit
+379,123,2023-10-26,Credit,143.22,Online Purchase
+380,173,2023-11-21,Credit,861.1,Bill Payment
+381,34,2023-11-19,Debit,318.17,Refund
+382,158,2023-10-14,Credit,568.61,Refund
+383,152,2023-11-17,Credit,185.17,Refund
+384,196,2023-02-22,Debit,902.96,Transfer
+385,191,2023-09-22,Credit,618.8,Refund
+386,88,2023-06-25,Credit,193.76,Cash Deposit
+387,94,2023-10-01,Credit,829.02,ATM Withdrawal
+388,47,2023-07-10,Debit,263.78,Salary Credit
+389,126,2023-05-04,Debit,919.95,Refund
+390,18,2023-08-03,Credit,41.32,ATM Withdrawal
+391,49,2023-12-02,Debit,654.86,Online Purchase
+392,79,2023-06-09,Credit,55.65,Bill Payment
+393,84,2023-09-06,Debit,319.71,Online Purchase
+394,200,2023-05-21,Debit,946.98,Cash Deposit
+395,141,2023-08-06,Credit,939.71,Online Purchase
+396,154,2023-12-25,Credit,887.81,ATM Withdrawal
+397,91,2023-12-26,Debit,900.96,Salary Credit
+398,132,2023-04-23,Credit,646.3,Cash Deposit
+399,122,2023-11-21,Credit,628.82,Refund
+400,96,2023-05-13,Debit,580.56,Online Purchase
+401,133,2023-11-22,Credit,685.27,Bill Payment
+402,28,2023-08-11,Debit,289.66,Direct Deposit
+403,91,2023-12-18,Debit,306.71,Bill Payment
+404,122,2023-11-08,Credit,23.68,Direct Deposit
+405,6,2023-10-11,Credit,824.3,Bill Payment
+406,8,2023-05-24,Credit,482.31,Online Purchase
+407,15,2023-07-16,Credit,759.5,Transfer
+408,50,2023-02-11,Debit,404.34,Online Purchase
+409,136,2023-10-27,Debit,521.05,Cash Deposit
+410,186,2023-07-08,Credit,361.17,Online Purchase
+411,49,2023-02-23,Debit,266.35,Online Purchase
+412,6,2023-03-17,Credit,798.74,ATM Withdrawal
+413,125,2023-03-19,Debit,40.03,Transfer
+414,19,2023-11-24,Debit,979.89,Online Purchase
+415,186,2023-02-20,Credit,675.57,Salary Credit
+416,141,2023-08-18,Debit,210.86,Direct Deposit
+417,200,2023-12-16,Debit,886.35,Transfer
+418,200,2023-12-18,Credit,36.2,Transfer
+419,102,2023-01-10,Debit,575.61,Salary Credit
+420,51,2023-04-13,Credit,984.84,Salary Credit
+421,181,2023-05-13,Debit,501.55,Bill Payment
+422,23,2023-01-22,Debit,14.01,Cash Deposit
+423,107,2023-08-10,Debit,192.58,Refund
+424,65,2023-02-28,Credit,890.75,Bill Payment
+425,68,2023-03-02,Debit,153.87,Refund
+426,142,2023-11-28,Debit,393.9,Salary Credit
+427,42,2023-07-27,Credit,326.59,Cash Deposit
+428,119,2023-02-11,Credit,807.54,Transfer
+429,153,2023-10-01,Debit,162.93,Bill Payment
+430,45,2023-07-20,Credit,982.74,Direct Deposit
+431,83,2023-02-20,Debit,297.56,Online Purchase
+432,158,2023-05-28,Debit,877.81,ATM Withdrawal
+433,24,2023-09-11,Debit,74.01,ATM Withdrawal
+434,194,2023-05-03,Debit,708.81,Refund
+435,83,2023-04-07,Credit,426.67,Cash Deposit
+436,113,2023-10-05,Debit,507.91,Bill Payment
+437,194,2023-03-25,Debit,609.67,Bill Payment
+438,135,2023-03-21,Debit,749.74,ATM Withdrawal
+439,190,2023-07-16,Credit,705.14,Cash Deposit
+440,50,2023-12-17,Debit,516.7,Bill Payment
+441,174,2023-04-23,Credit,882.53,Transfer
+442,106,2023-06-20,Debit,747.62,Direct Deposit
+443,27,2023-04-04,Credit,872.76,Transfer
+444,50,2023-06-22,Debit,893.74,Bill Payment
+445,44,2023-05-26,Debit,899.98,Transfer
+446,159,2023-06-26,Credit,421.1,ATM Withdrawal
+447,90,2023-06-17,Debit,989.27,Bill Payment
+448,48,2023-08-20,Debit,999.73,ATM Withdrawal
+449,25,2023-06-16,Debit,381.71,Bill Payment
+450,169,2023-05-18,Credit,267.56,Refund
+451,163,2023-09-07,Debit,883.63,Salary Credit
+452,200,2023-11-26,Debit,817.06,Transfer
+453,178,2023-12-22,Credit,837.12,Refund
+454,2,2023-08-24,Credit,836.51,Salary Credit
+455,148,2023-01-12,Credit,938.2,Direct Deposit
+456,11,2023-07-06,Debit,522.72,Cash Deposit
+457,179,2023-02-12,Credit,945.53,Cash Deposit
+458,199,2023-01-14,Credit,651.93,ATM Withdrawal
+459,54,2023-11-04,Debit,642.22,Online Purchase
+460,16,2023-02-09,Credit,127.17,ATM Withdrawal
+461,67,2023-01-23,Credit,808.13,Refund
+462,93,2023-05-19,Debit,906.77,Refund
+463,114,2023-05-18,Debit,454.68,Refund
+464,15,2023-11-23,Debit,59.49,Direct Deposit
+465,149,2023-05-05,Debit,345.88,ATM Withdrawal
+466,66,2023-11-05,Debit,362.23,Transfer
+467,15,2023-09-10,Credit,534.16,ATM Withdrawal
+468,39,2023-04-09,Debit,299.61,Direct Deposit
+469,13,2023-11-27,Credit,73.25,Online Purchase
+470,122,2023-08-18,Credit,571.89,ATM Withdrawal
+471,177,2023-09-28,Debit,761.77,Transfer
+472,128,2023-11-04,Debit,936.58,ATM Withdrawal
+473,17,2023-12-16,Credit,763.6,Bill Payment
+474,77,2023-12-28,Credit,30.23,Refund
+475,53,2023-08-08,Debit,862.67,Direct Deposit
+476,124,2023-04-02,Credit,952.16,Online Purchase
+477,40,2023-11-07,Debit,692.53,ATM Withdrawal
+478,25,2023-03-01,Credit,604.11,Cash Deposit
+479,28,2023-02-11,Debit,500.65,Transfer
+480,134,2023-04-16,Debit,808.21,Transfer
+481,64,2023-11-02,Credit,534.23,Refund
+482,23,2023-03-27,Debit,870.22,Bill Payment
+483,50,2023-05-27,Debit,239.97,Salary Credit
+484,184,2023-11-22,Debit,191.32,Cash Deposit
+485,76,2023-02-12,Credit,795.39,Salary Credit
+486,162,2023-10-05,Credit,351.98,Direct Deposit
+487,161,2023-02-11,Credit,166.94,ATM Withdrawal
+488,8,2023-04-20,Debit,923.39,Direct Deposit
+489,196,2023-04-27,Credit,780.07,Refund
+490,61,2023-04-07,Credit,993.77,Direct Deposit
+491,145,2023-07-11,Debit,851.81,Bill Payment
+492,59,2023-02-23,Debit,425.05,Cash Deposit
+493,5,2023-03-09,Credit,887.77,Direct Deposit
+494,19,2023-04-13,Debit,697.36,Refund
+495,26,2023-11-02,Debit,776.09,Refund
+496,166,2023-07-03,Debit,306.51,Cash Deposit
+497,164,2023-04-01,Debit,246.15,Bill Payment
+498,49,2023-07-08,Credit,489.57,Online Purchase
+499,126,2023-12-02,Debit,156.88,Cash Deposit
+500,168,2023-11-25,Credit,358.0,Refund
+501,24,2023-01-06,Credit,435.23,Online Purchase
+502,48,2023-01-13,Credit,484.77,Bill Payment
+503,159,2023-02-19,Credit,690.11,ATM Withdrawal
+504,165,2023-11-13,Debit,893.52,Salary Credit
+505,26,2023-02-15,Debit,366.24,Cash Deposit
+506,80,2023-04-17,Credit,728.68,Transfer
+507,149,2023-12-19,Debit,833.85,Bill Payment
+508,130,2023-05-03,Credit,50.36,Salary Credit
+509,171,2023-02-05,Debit,209.48,Cash Deposit
+510,197,2023-08-15,Credit,180.25,Cash Deposit
+511,137,2023-01-07,Debit,743.5,Online Purchase
+512,112,2023-06-07,Credit,709.59,Salary Credit
+513,125,2023-05-16,Debit,478.57,Salary Credit
+514,23,2023-02-04,Credit,727.92,Direct Deposit
+515,63,2023-05-25,Credit,632.61,Cash Deposit
+516,185,2023-10-01,Debit,807.16,Bill Payment
+517,27,2023-02-27,Debit,421.42,Refund
+518,31,2023-03-04,Debit,516.72,Refund
+519,88,2023-12-07,Credit,281.84,Direct Deposit
+520,61,2023-02-11,Debit,595.5,Transfer
+521,74,2023-11-13,Credit,654.68,Salary Credit
+522,91,2023-11-14,Credit,790.41,Salary Credit
+523,156,2023-01-16,Credit,979.39,Salary Credit
+524,25,2023-12-11,Credit,962.51,Salary Credit
+525,31,2023-01-09,Debit,405.63,Salary Credit
+526,83,2023-08-23,Debit,754.27,Salary Credit
+527,140,2023-12-12,Debit,389.58,Salary Credit
+528,44,2023-05-17,Credit,356.69,Bill Payment
+529,193,2023-08-04,Debit,258.56,Transfer
+530,177,2023-04-17,Credit,646.74,ATM Withdrawal
+531,17,2023-05-27,Credit,325.09,Transfer
+532,25,2023-02-27,Credit,256.09,Online Purchase
+533,114,2023-03-14,Debit,618.01,Transfer
+534,131,2023-10-08,Credit,26.55,Bill Payment
+535,195,2023-10-19,Credit,397.33,Direct Deposit
+536,33,2023-02-22,Credit,702.03,ATM Withdrawal
+537,150,2023-12-06,Credit,265.69,Salary Credit
+538,138,2023-03-22,Debit,745.91,Online Purchase
+539,84,2023-09-02,Debit,373.4,Refund
+540,144,2023-02-04,Credit,303.59,Salary Credit
+541,41,2023-11-07,Debit,816.62,ATM Withdrawal
+542,108,2023-01-06,Debit,668.63,Bill Payment
+543,184,2023-01-20,Credit,257.45,Refund
+544,39,2023-12-19,Debit,197.33,Bill Payment
+545,182,2023-12-03,Credit,725.85,Direct Deposit
+546,94,2023-09-12,Credit,85.6,Transfer
+547,148,2023-02-03,Credit,715.18,Online Purchase
+548,146,2023-04-03,Credit,465.9,Direct Deposit
+549,168,2023-11-28,Debit,215.48,Online Purchase
+550,20,2023-05-13,Debit,312.64,Cash Deposit
+551,61,2023-11-23,Debit,40.69,Refund
+552,128,2023-01-10,Debit,437.43,Direct Deposit
+553,192,2023-04-18,Debit,255.27,Transfer
+554,3,2023-01-15,Credit,78.84,Online Purchase
+555,6,2023-06-13,Credit,740.99,Cash Deposit
+556,28,2023-02-14,Debit,14.66,Cash Deposit
+557,3,2023-01-03,Credit,455.36,ATM Withdrawal
+558,155,2023-06-26,Debit,811.4,Cash Deposit
+559,7,2023-08-16,Debit,999.38,Salary Credit
+560,122,2023-03-08,Debit,605.72,ATM Withdrawal
+561,144,2023-07-24,Debit,109.79,Transfer
+562,101,2023-05-07,Debit,844.69,Transfer
+563,69,2023-11-06,Debit,77.21,Cash Deposit
+564,101,2023-11-19,Debit,596.86,Direct Deposit
+565,29,2023-09-10,Credit,11.51,Cash Deposit
+566,149,2023-06-10,Credit,518.35,Refund
+567,10,2023-05-24,Debit,835.31,Salary Credit
+568,155,2023-08-22,Debit,611.75,Direct Deposit
+569,152,2023-11-28,Debit,897.79,Direct Deposit
+570,75,2023-09-12,Credit,658.98,Salary Credit
+571,152,2023-05-16,Debit,656.95,ATM Withdrawal
+572,131,2023-02-05,Debit,655.5,Salary Credit
+573,60,2023-04-25,Credit,670.76,Bill Payment
+574,94,2023-06-02,Credit,30.92,Bill Payment
+575,37,2023-12-26,Debit,305.79,Transfer
+576,48,2023-02-16,Debit,737.29,Direct Deposit
+577,73,2023-02-17,Debit,852.34,Direct Deposit
+578,35,2023-04-18,Debit,775.09,Direct Deposit
+579,175,2023-01-10,Debit,141.46,Salary Credit
+580,77,2023-06-24,Debit,316.11,Salary Credit
+581,196,2023-06-03,Credit,152.59,Refund
+582,117,2023-04-24,Credit,878.13,Direct Deposit
+583,188,2023-02-28,Debit,458.95,Bill Payment
+584,57,2023-05-08,Credit,285.26,Bill Payment
+585,1,2023-03-16,Credit,275.71,Direct Deposit
+586,121,2023-04-16,Debit,710.56,Online Purchase
+587,4,2023-03-28,Debit,527.69,Cash Deposit
+588,137,2023-07-22,Debit,734.85,Salary Credit
+589,198,2023-04-01,Credit,19.69,Bill Payment
+590,152,2023-09-16,Credit,866.05,ATM Withdrawal
+591,63,2023-01-09,Debit,854.24,Online Purchase
+592,23,2023-09-14,Debit,606.15,Transfer
+593,144,2023-04-07,Debit,518.2,ATM Withdrawal
+594,136,2023-12-20,Credit,784.5,Cash Deposit
+595,143,2023-03-26,Debit,573.19,Refund
+596,121,2023-04-13,Credit,362.06,Online Purchase
+597,114,2023-01-22,Debit,441.28,Transfer
+598,93,2023-03-16,Debit,418.43,ATM Withdrawal
+599,74,2023-06-15,Debit,854.18,ATM Withdrawal
+600,106,2023-08-28,Credit,766.88,Salary Credit
+601,94,2023-10-26,Credit,583.57,Refund
+602,53,2023-07-02,Debit,559.5,Salary Credit
+603,117,2023-01-04,Debit,151.01,Bill Payment
+604,162,2023-04-25,Credit,405.65,Online Purchase
+605,86,2023-11-26,Debit,136.95,Direct Deposit
+606,111,2023-10-07,Credit,453.52,Refund
+607,46,2023-12-01,Credit,657.43,Transfer
+608,167,2023-02-19,Credit,210.52,Salary Credit
+609,158,2023-01-20,Credit,345.22,Bill Payment
+610,77,2023-03-18,Debit,144.3,Transfer
+611,40,2023-11-10,Credit,674.89,Online Purchase
+612,175,2023-12-25,Debit,172.14,Cash Deposit
+613,100,2023-12-06,Credit,747.76,Transfer
+614,27,2023-10-09,Credit,514.85,Salary Credit
+615,33,2023-10-07,Credit,931.36,Bill Payment
+616,10,2023-12-28,Credit,302.44,Bill Payment
+617,144,2023-05-05,Credit,519.13,Transfer
+618,21,2023-08-01,Credit,860.88,Salary Credit
+619,63,2023-12-07,Debit,910.25,Transfer
+620,129,2023-02-15,Debit,897.45,Refund
+621,2,2023-01-02,Credit,401.77,Cash Deposit
+622,68,2023-09-20,Debit,42.93,Direct Deposit
+623,62,2023-07-16,Credit,594.32,Cash Deposit
+624,133,2023-02-04,Debit,503.52,Refund
+625,146,2023-05-18,Debit,898.47,Direct Deposit
+626,170,2023-09-27,Debit,702.3,Refund
+627,2,2023-03-15,Credit,695.8,Transfer
+628,118,2023-02-26,Debit,921.21,Online Purchase
+629,130,2023-03-20,Credit,300.33,Refund
+630,142,2023-07-02,Credit,641.46,ATM Withdrawal
+631,109,2023-10-11,Credit,831.44,Transfer
+632,84,2023-03-12,Credit,163.31,Cash Deposit
+633,21,2023-07-24,Credit,137.51,Transfer
+634,44,2023-08-03,Debit,687.21,Salary Credit
+635,94,2023-02-25,Debit,612.92,Bill Payment
+636,51,2023-08-24,Debit,517.66,ATM Withdrawal
+637,197,2023-03-15,Debit,566.92,Transfer
+638,135,2023-02-19,Debit,375.05,Transfer
+639,51,2023-04-02,Credit,54.26,Bill Payment
+640,185,2023-02-20,Credit,503.94,Online Purchase
+641,175,2023-09-12,Debit,256.66,Bill Payment
+642,97,2023-03-03,Credit,308.17,Direct Deposit
+643,88,2023-12-13,Debit,729.3,Cash Deposit
+644,44,2023-03-09,Debit,305.73,Transfer
+645,130,2023-05-25,Credit,45.87,Bill Payment
+646,178,2023-07-18,Credit,711.58,Cash Deposit
+647,59,2023-04-12,Debit,517.51,Bill Payment
+648,33,2023-02-27,Debit,718.55,Cash Deposit
+649,154,2023-01-06,Debit,790.91,Online Purchase
+650,49,2023-01-08,Credit,367.95,Salary Credit
+651,147,2023-04-05,Credit,375.75,Salary Credit
+652,198,2023-03-20,Debit,319.07,Transfer
+653,145,2023-06-23,Debit,19.08,Cash Deposit
+654,165,2023-06-05,Debit,421.8,ATM Withdrawal
+655,107,2023-02-15,Debit,253.01,Direct Deposit
+656,62,2023-10-22,Credit,776.91,Online Purchase
+657,15,2023-12-12,Debit,712.34,Refund
+658,17,2023-03-08,Debit,447.39,Online Purchase
+659,151,2023-03-02,Credit,729.48,Transfer
+660,178,2023-01-22,Debit,552.34,Transfer
+661,56,2023-08-14,Debit,966.63,ATM Withdrawal
+662,166,2023-09-10,Credit,923.72,Bill Payment
+663,101,2023-05-16,Debit,84.56,ATM Withdrawal
+664,90,2023-01-08,Credit,455.34,Bill Payment
+665,110,2023-08-01,Credit,717.88,Transfer
+666,150,2023-07-21,Credit,689.55,Direct Deposit
+667,99,2023-01-09,Credit,152.52,ATM Withdrawal
+668,72,2023-03-25,Debit,435.08,ATM Withdrawal
+669,162,2023-07-23,Debit,235.33,Cash Deposit
+670,93,2023-07-15,Credit,302.86,ATM Withdrawal
+671,122,2023-09-16,Debit,833.63,Direct Deposit
+672,129,2023-07-13,Credit,251.2,Direct Deposit
+673,42,2023-12-14,Debit,148.81,Online Purchase
+674,198,2023-09-10,Credit,262.36,Online Purchase
+675,37,2023-07-02,Debit,270.82,Refund
+676,5,2023-08-24,Credit,188.69,Salary Credit
+677,19,2023-11-17,Credit,26.5,Cash Deposit
+678,140,2023-11-06,Credit,871.6,ATM Withdrawal
+679,67,2023-09-08,Debit,113.66,Bill Payment
+680,165,2023-02-11,Credit,182.16,Salary Credit
+681,39,2023-09-07,Debit,316.7,Direct Deposit
+682,195,2023-02-09,Debit,691.68,Transfer
+683,52,2023-04-02,Debit,10.04,Direct Deposit
+684,191,2023-05-24,Credit,880.34,Salary Credit
+685,164,2023-03-15,Debit,37.56,Cash Deposit
+686,113,2023-11-07,Debit,581.24,Bill Payment
+687,122,2023-12-22,Credit,491.76,Transfer
+688,187,2023-02-05,Debit,424.47,Transfer
+689,148,2023-09-02,Debit,363.93,Bill Payment
+690,175,2023-02-04,Debit,848.76,Transfer
+691,43,2023-02-07,Debit,674.86,Bill Payment
+692,188,2023-01-20,Credit,161.11,Salary Credit
+693,33,2023-05-13,Credit,271.57,Transfer
+694,55,2023-09-19,Debit,747.62,Online Purchase
+695,183,2023-05-18,Debit,432.37,Salary Credit
+696,13,2023-07-21,Credit,461.87,Transfer
+697,169,2023-08-05,Debit,764.3,Refund
+698,52,2023-08-19,Debit,782.2,Direct Deposit
+699,138,2023-06-26,Debit,979.26,Direct Deposit
+700,151,2023-05-24,Debit,164.38,Online Purchase
+701,179,2023-05-12,Credit,806.98,Cash Deposit
+702,91,2023-08-02,Credit,808.53,Direct Deposit
+703,65,2023-01-13,Debit,114.44,Direct Deposit
+704,113,2023-08-13,Debit,484.66,Salary Credit
+705,197,2023-02-20,Credit,483.88,Transfer
+706,108,2023-12-28,Credit,407.98,ATM Withdrawal
+707,73,2023-09-02,Credit,861.8,Cash Deposit
+708,146,2023-10-26,Debit,609.39,Bill Payment
+709,177,2023-12-02,Credit,298.45,Refund
+710,191,2023-07-12,Credit,912.63,Cash Deposit
+711,130,2023-01-24,Debit,353.7,Transfer
+712,167,2023-10-14,Credit,555.25,Bill Payment
+713,161,2023-11-23,Credit,784.88,Refund
+714,25,2023-06-21,Credit,883.75,Direct Deposit
+715,164,2023-06-27,Credit,973.91,Cash Deposit
+716,139,2023-11-13,Credit,284.92,Refund
+717,189,2023-11-12,Credit,543.5,Direct Deposit
+718,25,2023-02-28,Debit,227.26,ATM Withdrawal
+719,175,2023-12-05,Credit,863.66,Online Purchase
+720,198,2023-03-08,Debit,643.33,ATM Withdrawal
+721,179,2023-08-17,Credit,714.78,Direct Deposit
+722,35,2023-05-11,Debit,635.49,Online Purchase
+723,22,2023-03-13,Credit,75.81,Direct Deposit
+724,157,2023-04-23,Debit,524.1,Online Purchase
+725,13,2023-06-12,Debit,581.11,Direct Deposit
+726,132,2023-12-22,Debit,513.67,Bill Payment
+727,35,2023-03-27,Debit,648.04,Bill Payment
+728,127,2023-12-05,Credit,559.9,Direct Deposit
+729,15,2023-12-25,Credit,920.49,Salary Credit
+730,199,2023-12-14,Credit,137.33,Refund
+731,60,2023-01-12,Credit,270.97,Refund
+732,3,2023-03-01,Debit,713.22,ATM Withdrawal
+733,135,2023-01-04,Debit,622.09,Refund
+734,81,2023-01-26,Debit,307.88,Transfer
+735,188,2023-09-20,Debit,770.04,Direct Deposit
+736,59,2023-08-20,Credit,592.21,ATM Withdrawal
+737,52,2023-06-04,Credit,32.21,Direct Deposit
+738,58,2023-05-02,Debit,645.61,ATM Withdrawal
+739,92,2023-07-01,Debit,173.62,Transfer
+740,151,2023-07-09,Credit,633.63,Online Purchase
+741,13,2023-07-25,Credit,692.16,Transfer
+742,47,2023-07-11,Debit,411.36,ATM Withdrawal
+743,41,2023-04-16,Debit,529.83,Direct Deposit
+744,33,2023-12-03,Credit,436.64,Refund
+745,152,2023-03-19,Debit,59.25,Bill Payment
+746,42,2023-04-16,Debit,747.21,Transfer
+747,150,2023-12-24,Credit,182.25,Transfer
+748,52,2023-10-17,Debit,538.36,Refund
+749,183,2023-06-02,Credit,87.33,Refund
+750,91,2023-08-28,Debit,449.62,Salary Credit
+751,151,2023-06-09,Credit,859.4,Refund
+752,117,2023-11-10,Credit,848.0,Salary Credit
+753,195,2023-01-20,Debit,183.46,Direct Deposit
+754,199,2023-03-22,Debit,201.77,Online Purchase
+755,197,2023-01-22,Credit,966.07,Cash Deposit
+756,152,2023-07-23,Debit,945.98,Refund
+757,119,2023-05-13,Credit,268.31,Online Purchase
+758,160,2023-12-28,Debit,413.59,ATM Withdrawal
+759,188,2023-10-05,Debit,151.33,Refund
+760,41,2023-05-26,Credit,26.14,Bill Payment
+761,199,2023-05-16,Credit,768.28,Online Purchase
+762,125,2023-03-17,Credit,149.44,Refund
+763,134,2023-09-07,Debit,553.35,ATM Withdrawal
+764,7,2023-07-26,Credit,533.66,Online Purchase
+765,16,2023-01-08,Credit,690.51,Salary Credit
+766,2,2023-11-26,Debit,582.42,ATM Withdrawal
+767,120,2023-02-14,Debit,57.84,Online Purchase
+768,144,2023-02-14,Credit,811.46,Direct Deposit
+769,194,2023-07-21,Debit,84.69,Cash Deposit
+770,145,2023-07-08,Debit,88.25,ATM Withdrawal
+771,159,2023-09-03,Credit,39.28,Refund
+772,58,2023-09-12,Debit,60.43,ATM Withdrawal
+773,189,2023-04-28,Credit,59.81,Refund
+774,106,2023-09-08,Debit,535.28,Salary Credit
+775,4,2023-11-28,Debit,806.6,Transfer
+776,199,2023-06-20,Credit,147.02,Direct Deposit
+777,157,2023-12-08,Debit,345.39,Cash Deposit
+778,58,2023-07-14,Credit,464.28,Salary Credit
+779,89,2023-03-23,Debit,877.98,Cash Deposit
+780,13,2023-11-15,Debit,521.33,Bill Payment
+781,19,2023-07-22,Credit,917.81,Bill Payment
+782,28,2023-09-20,Credit,64.84,Cash Deposit
+783,47,2023-07-06,Credit,547.35,ATM Withdrawal
+784,62,2023-04-05,Debit,607.37,Cash Deposit
+785,191,2023-08-07,Debit,569.21,Refund
+786,125,2023-09-22,Debit,238.59,Online Purchase
+787,68,2023-03-11,Debit,216.45,Refund
+788,102,2023-10-01,Debit,31.33,Transfer
+789,98,2023-04-13,Debit,373.91,Direct Deposit
+790,103,2023-09-10,Debit,554.65,ATM Withdrawal
+791,68,2023-12-27,Debit,184.83,Salary Credit
+792,39,2023-05-19,Credit,501.46,Direct Deposit
+793,72,2023-06-01,Debit,669.58,Cash Deposit
+794,177,2023-02-08,Debit,699.26,Transfer
+795,71,2023-07-18,Credit,513.04,Direct Deposit
+796,22,2023-11-13,Debit,912.3,Bill Payment
+797,171,2023-07-04,Debit,749.13,Online Purchase
+798,109,2023-02-06,Credit,255.06,Salary Credit
+799,26,2023-04-05,Credit,224.69,Refund
+800,178,2023-08-24,Debit,660.01,Bill Payment
+801,80,2023-08-14,Credit,897.81,Bill Payment
+802,189,2023-07-09,Credit,369.75,Direct Deposit
+803,182,2023-10-27,Credit,167.67,Refund
+804,43,2023-11-01,Debit,164.19,Salary Credit
+805,172,2023-07-24,Credit,216.75,Refund
+806,167,2023-03-09,Debit,557.37,Bill Payment
+807,61,2023-10-07,Credit,415.89,Cash Deposit
+808,16,2023-06-19,Debit,196.07,Online Purchase
+809,26,2023-09-16,Debit,106.12,Refund
+810,39,2023-01-15,Debit,627.4,Cash Deposit
+811,10,2023-12-08,Debit,355.76,Refund
+812,126,2023-12-07,Credit,457.3,Online Purchase
+813,82,2023-08-21,Debit,223.07,ATM Withdrawal
+814,42,2023-02-02,Debit,353.92,Salary Credit
+815,144,2023-10-11,Credit,205.32,Bill Payment
+816,66,2023-04-28,Debit,92.07,ATM Withdrawal
+817,112,2023-07-13,Credit,263.26,Direct Deposit
+818,198,2023-04-12,Debit,353.15,ATM Withdrawal
+819,15,2023-04-22,Debit,836.79,ATM Withdrawal
+820,88,2023-07-17,Debit,236.29,ATM Withdrawal
+821,62,2023-04-15,Debit,743.7,Salary Credit
+822,178,2023-04-25,Debit,649.45,Salary Credit
+823,170,2023-03-04,Debit,279.51,Online Purchase
+824,123,2023-06-13,Debit,641.0,Salary Credit
+825,178,2023-04-14,Credit,727.17,Salary Credit
+826,133,2023-09-27,Credit,495.11,Cash Deposit
+827,178,2023-09-10,Credit,834.48,Direct Deposit
+828,12,2023-01-01,Debit,724.22,Cash Deposit
+829,41,2023-04-15,Debit,789.84,Cash Deposit
+830,157,2023-07-22,Debit,567.27,Transfer
+831,140,2023-05-17,Credit,940.56,ATM Withdrawal
+832,52,2023-05-11,Debit,188.66,Transfer
+833,71,2023-11-04,Debit,696.31,Direct Deposit
+834,71,2023-08-25,Credit,448.95,Bill Payment
+835,150,2023-11-18,Debit,909.82,Direct Deposit
+836,199,2023-04-23,Credit,807.32,Salary Credit
+837,101,2023-11-15,Debit,27.05,Bill Payment
+838,23,2023-11-12,Debit,44.91,Salary Credit
+839,140,2023-12-22,Credit,270.5,Refund
+840,27,2023-07-01,Credit,139.57,ATM Withdrawal
+841,126,2023-08-12,Debit,298.91,Online Purchase
+842,20,2023-07-06,Debit,751.72,ATM Withdrawal
+843,40,2023-08-20,Debit,813.02,Refund
+844,91,2023-06-02,Debit,833.64,Online Purchase
+845,45,2023-11-26,Credit,666.48,Direct Deposit
+846,81,2023-12-04,Credit,806.36,ATM Withdrawal
+847,155,2023-10-01,Debit,525.28,Direct Deposit
+848,79,2023-03-27,Debit,500.78,Salary Credit
+849,27,2023-12-14,Credit,465.4,Salary Credit
+850,43,2023-02-02,Debit,342.09,Salary Credit
+851,121,2023-11-09,Credit,28.15,Refund
+852,67,2023-03-12,Credit,627.36,Cash Deposit
+853,177,2023-11-27,Debit,761.08,Bill Payment
+854,145,2023-04-17,Debit,793.38,Online Purchase
+855,23,2023-06-13,Credit,862.5,Transfer
+856,91,2023-02-24,Credit,49.36,Cash Deposit
+857,63,2023-04-28,Debit,237.8,ATM Withdrawal
+858,127,2023-08-04,Debit,193.46,ATM Withdrawal
+859,128,2023-06-09,Debit,273.96,Transfer
+860,54,2023-03-16,Credit,718.83,Bill Payment
+861,189,2023-09-27,Credit,665.7,Salary Credit
+862,197,2023-04-17,Debit,739.72,Cash Deposit
+863,47,2023-12-03,Credit,630.6,ATM Withdrawal
+864,136,2023-07-10,Credit,153.39,Refund
+865,80,2023-02-08,Debit,483.33,Bill Payment
+866,167,2023-07-15,Credit,738.38,Cash Deposit
+867,79,2023-08-18,Credit,718.42,Online Purchase
+868,27,2023-05-17,Credit,682.47,Salary Credit
+869,186,2023-02-19,Credit,673.14,Direct Deposit
+870,127,2023-05-23,Debit,579.47,Refund
+871,49,2023-03-20,Debit,336.28,Online Purchase
+872,97,2023-08-18,Credit,138.73,Salary Credit
+873,109,2023-02-19,Credit,384.65,Refund
+874,97,2023-07-05,Debit,274.67,Direct Deposit
+875,153,2023-03-01,Credit,81.42,Online Purchase
+876,75,2023-04-07,Debit,489.75,Salary Credit
+877,76,2023-11-14,Debit,395.18,Cash Deposit
+878,144,2023-12-15,Debit,254.3,Salary Credit
+879,40,2023-03-17,Debit,752.68,Refund
+880,57,2023-10-28,Credit,494.48,Direct Deposit
+881,154,2023-04-23,Credit,884.88,Salary Credit
+882,95,2023-01-21,Debit,676.38,Online Purchase
+883,22,2023-04-10,Debit,867.2,Bill Payment
+884,56,2023-07-28,Credit,775.91,Bill Payment
+885,158,2023-03-12,Debit,349.54,Bill Payment
+886,13,2023-08-12,Credit,739.17,Cash Deposit
+887,184,2023-05-22,Debit,15.76,Bill Payment
+888,57,2023-09-23,Debit,804.77,Cash Deposit
+889,31,2023-01-09,Credit,651.19,Direct Deposit
+890,112,2023-02-27,Debit,344.68,Refund
+891,80,2023-10-07,Credit,587.03,Salary Credit
+892,184,2023-06-19,Debit,769.12,Bill Payment
+893,170,2023-02-05,Debit,534.67,Refund
+894,108,2023-03-02,Debit,365.91,ATM Withdrawal
+895,41,2023-01-01,Debit,946.57,Refund
+896,47,2023-01-05,Debit,760.19,ATM Withdrawal
+897,96,2023-01-21,Debit,975.71,ATM Withdrawal
+898,127,2023-01-10,Credit,551.94,Direct Deposit
+899,196,2023-06-06,Debit,893.3,Refund
+900,14,2023-12-20,Debit,521.73,ATM Withdrawal
+901,2,2023-08-10,Debit,863.58,Bill Payment
+902,137,2023-06-18,Credit,457.27,Refund
+903,139,2023-09-19,Credit,295.63,Bill Payment
+904,49,2023-10-11,Credit,957.95,Online Purchase
+905,18,2023-01-23,Debit,620.51,Refund
+906,82,2023-01-05,Debit,432.95,Refund
+907,77,2023-05-03,Debit,696.59,Online Purchase
+908,18,2023-06-21,Debit,561.47,Salary Credit
+909,70,2023-02-25,Credit,196.91,Transfer
+910,135,2023-04-11,Debit,677.89,Refund
+911,32,2023-07-27,Debit,831.33,Direct Deposit
+912,49,2023-10-11,Credit,579.09,Refund
+913,49,2023-07-28,Debit,700.24,Cash Deposit
+914,162,2023-12-18,Credit,62.43,Cash Deposit
+915,62,2023-02-08,Credit,459.6,Cash Deposit
+916,163,2023-07-05,Credit,518.43,Online Purchase
+917,60,2023-12-03,Credit,647.21,Online Purchase
+918,113,2023-07-03,Debit,324.29,Online Purchase
+919,87,2023-04-10,Debit,790.71,ATM Withdrawal
+920,93,2023-04-09,Debit,37.99,Refund
+921,106,2023-05-16,Credit,551.0,Transfer
+922,25,2023-02-15,Credit,958.57,Bill Payment
+923,146,2023-05-05,Debit,932.26,ATM Withdrawal
+924,36,2023-06-21,Debit,276.15,Direct Deposit
+925,139,2023-10-19,Debit,692.97,Cash Deposit
+926,2,2023-08-21,Credit,953.28,Salary Credit
+927,40,2023-08-05,Credit,949.75,Salary Credit
+928,21,2023-04-01,Credit,548.23,Direct Deposit
+929,87,2023-07-05,Credit,519.0,ATM Withdrawal
+930,100,2023-02-17,Credit,911.88,Salary Credit
+931,36,2023-12-23,Debit,851.11,Online Purchase
+932,162,2023-08-17,Credit,742.95,Bill Payment
+933,27,2023-05-22,Debit,322.77,Salary Credit
+934,145,2023-07-27,Debit,88.68,Online Purchase
+935,182,2023-10-27,Debit,499.31,Salary Credit
+936,151,2023-01-10,Credit,566.43,Transfer
+937,107,2023-11-28,Credit,573.83,Bill Payment
+938,145,2023-04-15,Debit,467.74,Bill Payment
+939,22,2023-01-27,Debit,368.55,Salary Credit
+940,140,2023-10-13,Debit,528.61,Refund
+941,65,2023-10-04,Debit,90.8,Bill Payment
+942,109,2023-05-08,Debit,824.31,Refund
+943,121,2023-12-13,Credit,398.07,ATM Withdrawal
+944,22,2023-10-23,Credit,151.49,Refund
+945,61,2023-02-09,Debit,732.56,Refund
+946,60,2023-09-14,Debit,353.31,Online Purchase
+947,153,2023-06-09,Credit,355.65,Refund
+948,56,2023-12-08,Debit,274.3,ATM Withdrawal
+949,99,2023-01-03,Credit,718.13,Salary Credit
+950,183,2023-06-03,Credit,295.87,Online Purchase
+951,135,2023-04-02,Credit,501.82,Refund
+952,54,2023-12-22,Credit,350.38,Transfer
+953,3,2023-03-22,Debit,459.91,Refund
+954,197,2023-12-18,Debit,972.69,Direct Deposit
+955,58,2023-12-27,Credit,102.88,Salary Credit
+956,52,2023-10-01,Debit,644.68,Transfer
+957,63,2023-10-24,Debit,11.45,Direct Deposit
+958,90,2023-03-08,Credit,766.0,Cash Deposit
+959,24,2023-09-20,Credit,901.39,Direct Deposit
+960,37,2023-12-21,Debit,420.45,Salary Credit
+961,20,2023-10-14,Credit,792.67,Transfer
+962,120,2023-01-22,Credit,208.38,Bill Payment
+963,40,2023-05-12,Debit,942.34,Salary Credit
+964,199,2023-06-16,Debit,695.86,ATM Withdrawal
+965,75,2023-03-17,Debit,60.0,Refund
+966,147,2023-06-10,Debit,909.33,Online Purchase
+967,34,2023-06-16,Debit,614.83,Salary Credit
+968,160,2023-12-21,Debit,387.62,Online Purchase
+969,156,2023-01-27,Debit,330.96,Direct Deposit
+970,68,2023-11-17,Debit,953.42,Direct Deposit
+971,200,2023-07-18,Debit,997.32,Refund
+972,63,2023-12-11,Debit,783.79,Online Purchase
+973,191,2023-05-22,Debit,508.76,Transfer
+974,170,2023-06-06,Credit,860.97,Direct Deposit
+975,152,2023-01-06,Debit,886.13,Salary Credit
+976,187,2023-10-17,Credit,972.48,ATM Withdrawal
+977,117,2023-03-20,Debit,691.95,Bill Payment
+978,180,2023-06-11,Debit,170.21,Transfer
+979,30,2023-01-27,Debit,755.36,Refund
+980,60,2023-07-24,Credit,449.42,Bill Payment
+981,142,2023-07-09,Credit,646.67,Online Purchase
+982,92,2023-01-26,Debit,783.74,Transfer
+983,24,2023-03-15,Debit,637.67,Online Purchase
+984,109,2023-10-10,Debit,838.18,Salary Credit
+985,137,2023-08-14,Credit,360.56,Cash Deposit
+986,150,2023-06-10,Credit,510.16,Refund
+987,28,2023-02-28,Debit,666.72,Salary Credit
+988,28,2023-05-03,Debit,33.79,Bill Payment
+989,76,2023-01-18,Credit,152.85,ATM Withdrawal
+990,53,2023-11-27,Credit,441.78,Salary Credit
+991,90,2023-05-14,Credit,459.1,ATM Withdrawal
+992,144,2023-03-15,Debit,162.49,Cash Deposit
+993,7,2023-02-20,Credit,347.28,Salary Credit
+994,131,2023-07-25,Debit,379.63,Salary Credit
+995,134,2023-09-06,Credit,840.1,Cash Deposit
+996,200,2023-06-08,Credit,305.83,Cash Deposit
+997,150,2023-02-21,Debit,271.04,Refund
+998,61,2023-03-13,Credit,147.87,Salary Credit
+999,39,2023-08-22,Credit,615.7,Bill Payment
+1000,181,2023-09-03,Credit,677.98,Direct Deposit
